@@ -87,10 +87,11 @@
   display: flex;
 }
 .message-user {
-  color: #434a54
+  color: #434a54;
   font-size: 16px;
 }
-.time{
+
+.time {
   font-size: 12px;
   color: #999999;
   padding-left: 10px;
